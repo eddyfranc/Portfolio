@@ -1,0 +1,10 @@
+img{
+    height: 200px;
+    width: 150px;
+};
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  };
